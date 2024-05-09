@@ -260,7 +260,7 @@ body {
 
 @media (max-width: 991px) {
   .login-image {
-    width: 100%;
+    display: none;
   }
 }
 
